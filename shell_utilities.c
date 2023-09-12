@@ -1,15 +1,6 @@
 #include "shell.h"
 
 /**
- * Authors: Dawuni Abdul-samed
- *
- * 		 Tiwa Ofori Eunice
- *
- * Description:
- * the extended functions for main.c
- */
-
-/**
  * parse_command - determines type of command
  * @command_str: the command to be parsed
  *
