@@ -109,6 +109,11 @@ typedef struct builtin
 	int (*func)(info_t *);
 } builtin_table;
 
+/* _atoi.c */
+int interactive(info_t *);
+int is_delim(char, char *);
+int _isalpha(int);
+int _atoi(char *);
 
 /* shloop.c */
 int hsh(info_t *, char **);
