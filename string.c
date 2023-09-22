@@ -3,7 +3,7 @@
 
 /**
  * _strlen - Calculate the length of a string
- * @s: The string whose length to be checked
+ * @x: The string whose length to be checked
  *
  * Return: Integer length of the string
  */
